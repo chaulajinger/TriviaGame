@@ -1,0 +1,74 @@
+.answerchoice {
+	border: 1px solid black;
+  border-radius: 20%;
+	width: 40%;
+	color: black(110, 10, 10);
+  text-align: center;
+  margin: 20px auto;
+  font-weight: 600;
+  font-size: 20px;
+  background-color: rgb(180, 49, 67);
+
+}
+
+img {
+  max-height: 250px;
+  width: auto;
+}
+
+#answerblock {
+  margin: 10px auto;
+  text-align: center;
+
+}
+
+#questionblock {
+  text-align: center;
+  font-weight: bold;
+}
+
+#reset {
+  visibility: visible;
+}
+
+body {
+  background-image: url("../images/Superbowl.jpg");
+  background-size: cover;
+  font-family: 'Art Deco', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: maroon;
+  font-weight: bolder;
+  padding: 20px;
+  font-size: 45px;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  padding: 10px;
+  color: red;
+  font-size: 20px;
+}
+
+h2, h4 {
+  margin: 30px;
+  font-weight: bold;
+  color: saddlebrown;
+}
+
+.wrapper {
+  margin: 10px auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 15px solid #403fd3;
+  height: 500px;
+  width: 68%;
+  text-align: center;
+}
+
+.btn {
+  position: relative;
+  bottom: -150px;
+}
